@@ -13,7 +13,7 @@ Title: Granada and the Alhambra
 
 Author: Albert F. Calvert
 
-Release Date: February 25, 2021 [eBook #64620]
+Release Date: February 24, 2021 [eBook #64620]
 
 Language: English
 
@@ -563,7 +563,7 @@ a Christian Knight                                                   116
 
 Part of Picture in the Hall of Justice representing a
 Christian Knight rescuing a Maiden from a wicked
-Magician, or Wild-Man-o’-the-Woods                                   117
+Magician, or Wild-Man-o$1‘-the-Woods                                 117
 
 Part of Picture in Hall of Justice--Moorish Huntsman
 slaying the Wild Boar                                                118
